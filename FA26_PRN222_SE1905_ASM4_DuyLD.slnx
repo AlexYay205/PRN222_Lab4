@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Vegan.Entities.DuyLD/Vegan.Entities.DuyLD.csproj" />
+  <Project Path="Vegan.Repositories.DuyLD/Vegan.Repositories.DuyLD.csproj" />
+  <Project Path="Vegan.Services.DuyLD/Vegan.Services.DuyLD.csproj" />
+  <Project Path="Vegan_WorkerService.DuyLD/Vegan_WorkerService.DuyLD.csproj" />
+</Solution>
